@@ -180,9 +180,3 @@ Clase de la interfaz gráfica que gestiona toda la interacción con el usuario.
   }
 }
 ```
-
-## Autor
-Proyecto desarrollado para INFO1148 - Teoría de Lenguajes y Compiladores
-
-## Licencia
-Proyecto académico - Universidad [Nombre]
